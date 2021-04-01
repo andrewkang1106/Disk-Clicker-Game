@@ -8,8 +8,8 @@ RIP Prof. McIntosh.
 ## Screenshots
 As shown in the pictures below, the user would be clicking on the disks within a time limit (top left, in seconds) to score points (on the right of the timer).
 <p align = "middle">
-<img src="https://user-images.githubusercontent.com/60414880/113234733-d48d7e80-926f-11eb-9c3c-dbb732b3ed09.png" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/60414880/113234226-dc005800-926e-11eb-8014-e7f31916ea57.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/60414880/113234733-d48d7e80-926f-11eb-9c3c-dbb732b3ed09.png" width="350" height="350">
+<img src="https://user-images.githubusercontent.com/60414880/113234226-dc005800-926e-11eb-8014-e7f31916ea57.png" width="350" height="350">
 </p>
 
 ## Referenced Libraries
