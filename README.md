@@ -12,5 +12,5 @@ As shown in the pictures below, the user would be clicking on the disks within a
 <img src="https://user-images.githubusercontent.com/60414880/113234226-dc005800-926e-11eb-8014-e7f31916ea57.png" width="250" height="250">
 </p>
 
-## Referenfced Libraries
+## Referenced Libraries
 As this project uses PApplet to be built, download the "core.jar" file in the repository and add it as a referenced library.
